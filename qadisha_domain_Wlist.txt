@@ -335,3 +335,4 @@ serv.smartbox.com
 agriturismi.it
 nauticaesposito.it
 gcp-prodpci.synxis.com
+dispatch.simplebooking.it
