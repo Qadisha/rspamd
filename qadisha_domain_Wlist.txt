@@ -377,4 +377,4 @@ mx1.notification.getyourguide.com
 mx2.notification.getyourguide.com
 notification.getyourguide.com
 getyourguide.com
-
+reply.getyourguide.com
