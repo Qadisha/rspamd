@@ -373,3 +373,8 @@ alltours.it
 orfe.it
 sorrentotravelagents.com
 studiogargiulog.it
+mx1.notification.getyourguide.com
+mx2.notification.getyourguide.com
+notification.getyourguide.com
+getyourguide.com
+
