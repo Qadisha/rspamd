@@ -378,3 +378,4 @@ mx2.notification.getyourguide.com
 notification.getyourguide.com
 getyourguide.com
 reply.getyourguide.com
+pitchup.com
