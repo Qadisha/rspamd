@@ -1,3 +1,4 @@
+^shop[.]mio[.]fun$
 [.]topwebmarketing.it$
 [.]pro$
 [.]su$
@@ -52,7 +53,6 @@
 [.]dog$
 [.]domains$
 [.]eco$
-[.]email$
 [.]energy$
 [.]engineer$
 [.]engineering$
@@ -139,8 +139,6 @@
 [.]movie$
 [.]music$
 [.]navy$
-[.]network$
-[.]news$
 [.]ninja$
 [.]online$
 [.]organic$
@@ -207,7 +205,6 @@
 [.]toys$
 [.]trade$
 [.]training$
-[.]travel$
 [.]university$
 [.]vacations$
 [.]video$
@@ -225,4 +222,3 @@
 [.]wtf$
 [.]xyz$
 [.]zone$
-
