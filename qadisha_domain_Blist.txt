@@ -19,7 +19,6 @@
 [.]cab$
 [.]camera$
 [.]capital$
-[.]care$
 [.]cash$
 [.]casino$
 [.]center$
@@ -89,7 +88,6 @@
 [.]gifts$
 [.]gives$
 [.]glass$
-[.]global$
 [.]gold$
 [.]golf$
 [.]graphics$
@@ -193,7 +191,6 @@
 [.]systems$
 [.]tax$
 [.]team$
-[.]tech$
 [.]technology$
 [.]tennis$
 [.]theater$
