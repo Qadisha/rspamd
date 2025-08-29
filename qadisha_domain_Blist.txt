@@ -183,7 +183,6 @@
 [.]space$
 [.]studio$
 [.]study$
-[.]style$
 [.]sucks$
 [.]supplies$
 [.]supply$
@@ -212,8 +211,6 @@
 [.]website$
 [.]win$
 [.]wine$
-[.]work$
-[.]works$
 [.]world$
 [.]wow$
 [.]wtf$
