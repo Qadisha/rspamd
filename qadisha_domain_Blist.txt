@@ -52,7 +52,6 @@
 [.]dog$
 [.]domains$
 [.]eco$
-[.]energy$
 [.]engineer$
 [.]engineering$
 [.]enterprises$
