@@ -216,3 +216,4 @@
 [.]wtf$
 [.]xyz$
 [.]zone$
+^tomlab[.]com[.]tr$
