@@ -217,3 +217,5 @@
 [.]xyz$
 [.]zone$
 ^tomlab[.]com[.]tr$
+^quatrome[.]de$
+^prezzoinitalia[.]shop$
