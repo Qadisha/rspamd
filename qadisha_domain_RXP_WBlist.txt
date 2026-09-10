@@ -1,0 +1,5 @@
+#^shop[.]mio[.]fun$
+#^tomlab[.]com[.]tr$
+#^quatrome[.]de$
+#^prezzoinitalia[.]shop$
+^metaio[.]report$
